@@ -17,7 +17,7 @@ This repo is an non-angular application, which added a third party library corne
    
    4.2 run `open -n -a /Applications/Google\ Chrome.app --args --user-data-dir="/tmp/chrome_dev_session" --disable-web-security` to start a Chrome without security check.
 
-5. Visit `http://localhost:3000/` in new started Chrome.
+5. Visit `http://localhost:8080/` in new started Chrome.
 
 6. Click "window leveling" button multiple times, the time cost of for loop from cornerstone library will output in the console. The performance is not good.
 
